@@ -1,0 +1,12 @@
+{
+  "asnames_sha256": "2811fa8cb245e290a9f029cbcb80600aa713a955864e7a3032a330684114b2a4",
+  "attribution_method": "httparchive-payload-ip",
+  "coverage": {
+    "mapped": 35505,
+    "rows": 35511,
+    "with_ip": 35509
+  },
+  "fetched_at": "2026-10-10T08:49:27Z",
+  "ipasn_sha256": "818959649de51a79e5274be30ecd4091c8903af6c7af177265fae07eed83c39d",
+  "rib_file": "rib.20261010.0800.bz2"
+}

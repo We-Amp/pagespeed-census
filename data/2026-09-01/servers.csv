@@ -1,0 +1,14 @@
+engine,server_family,origins
+apache-module,apache,11061
+apache-module,nginx,6549
+apache-module,cloudflare,2774
+apache-module,other,662
+apache-module,hidden,608
+apache-module,litespeed,7
+apache-module,iis,1
+nginx-module,nginx,11156
+nginx-module,cloudflare,2363
+nginx-module,other,232
+nginx-module,hidden,79
+nginx-module,iis,18
+nginx-module,litespeed,1
